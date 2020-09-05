@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Grocery App',
+        title: 'Japanese Food Admin',
         theme: ThemeData(
           primaryColor: Colors.black,
           buttonColor: Colors.black87,

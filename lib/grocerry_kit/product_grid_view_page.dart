@@ -103,7 +103,7 @@ class _ProductGridViewState extends State<ProductGridView> {
                   ProductModel product =
                       Provider.of<Product>(context).convertToProductModel(data);
                   return Container(
-                    height: 130,
+                    height: 150,
                     width: MediaQuery.of(context).size.width,
                     padding:
                         EdgeInsets.only(left: 30, top: 4, bottom: 4, right: 20),

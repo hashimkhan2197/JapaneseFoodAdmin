@@ -524,7 +524,7 @@ class _OrderPageState extends State<OrderPage> {
           shape: BoxShape.rectangle,
           borderRadius: BorderRadius.circular(8),
           color: Colors.white70),
-      height: 107,
+      height: 120,
       child: Row(children: <Widget>[
         Container(
           alignment: Alignment.centerLeft,
